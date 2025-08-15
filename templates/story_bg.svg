@@ -1,0 +1,9 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1920" fill="#F3F4F6"/>
+  <circle cx="1100" cy="-20" r="260" fill="#DAA520" opacity="0.15"/>
+  <circle cx="-40" cy="1640" r="280" fill="#1C3D5A" opacity="0.08"/>
+  <text x="80" y="240" font-family="'Inter', sans-serif" font-size="84" font-weight="800" fill="#1C3D5A">[STORY BAŞLIK]</text>
+  <text x="80" y="330" font-family="'Inter', sans-serif" font-size="48" fill="#6B7280">[Soru / Anket / İpucu]</text>
+</svg>
+
+

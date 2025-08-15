@@ -1,0 +1,16 @@
+date,day,format,pillar,topic,hook,cta,caption,hashtag_set,assets,status,notes
+2025-08-18,Mon,Carousel,Günlük Nezaket,Selamlaşma Temelleri,"İlk izlenim 3 saniyede!","Kaydet ve bugün uygula","Selamlaşma, beden dili ve göz teması üzerine 5 kısa kural.",genel,templates/carousel_1080x1080.svg,idea,
+2025-08-19,Tue,Reel,Aile ve İlişkiler,Aile Sofrası,"Kaşık-çatal nereden başlar?","Yorumda ailenin kuralını paylaş","Aile sofrasında temel düzen ve konuşma sırası.",yemek,templates/reel_cover.svg,idea,
+2025-08-20,Wed,Post,İş ve Profesyonel,İlk Mail,"Bu satır, kariyerini kurtarır.","Kaydet ve şablonu kullan","Profesyonel ilk e-posta şablonu ve 3 kritik hata.",is,templates/post_frame.svg,idea,
+2025-08-21,Thu,Carousel,Kişisel Gelişim,Özür Dileme Sanatı,"Hatalıysan? Böyle dön.","Arkadaşını etiketle","Samimi özrün 4 adımı ve cümle örnekleri.",genel,templates/carousel_1080x1080.svg,idea,
+2025-08-22,Fri,Reel,Para & Yönetim,Bütçe 50/30/20,"Paranı yönetmenin en basit yolu.","Kaydet ve haftaya uygula","Hızlı bütçe çerçevesi ve günlük kayıt önerisi.",para,templates/reel_cover.svg,idea,
+2025-08-23,Sat,Story,Sağlık & Düzen,Hafta Sonu Challenge,"Evin tek rafı düzen!","Katıldığını DM ile gönder","10 dakikalık mini düzen challenge.",genel,,idea,
+2025-08-24,Sun,Post,Günlük Nezaket,Teşekkür Etmek,"Teşekkürün gücü!","Yorumda örnek cümle bırak","Teşekkür etmenin 3 seviyesi ve doğru zamanlama.",genel,templates/post_frame.svg,idea,
+2025-08-25,Mon,Carousel,İş ve Profesyonel,Toplantı Disiplini,"Toplantıları yarıya indir!","Kaydet ve ekibinle paylaş","Ajanda, zaman ve karar notu şablonu.",is,templates/carousel_1080x1080.svg,idea,
+2025-08-26,Tue,Reel,Kişisel Gelişim,Hayır Diyebilmek,"Sınırlarını koru.","Kaydet ve tekrar et","Kibarca hayır deme cümleleri.",genel,templates/reel_cover.svg,idea,
+2025-08-27,Wed,Post,Aile ve İlişkiler,Doğum Günü Mesajı,"Kısa ve içten nasıl yazılır?","Kaydet","3 örnek mesaj ve ipuçları.",genel,templates/post_frame.svg,idea,
+2025-08-28,Thu,Carousel,Sağlık & Düzen,Kişisel Hijyen 101,"Temel ama kritik!","Kaydet ve paylaş","Günlük hijyen kontrol listesi.",saglik,templates/carousel_1080x1080.svg,idea,
+2025-08-29,Fri,Reel,Para & Yönetim,Market Alışverişi,"Sepetini hafiflet.","Yorumda kendi taktiğini yaz","Liste, bütçe ve karşılaştırma.",para,templates/reel_cover.svg,idea,
+2025-08-30,Sat,Story,Günlük Nezaket,Misafirlik Adabı,"Ev sahibi/misafir rolleri","Anketle katıl","Kısa kurallar ve anket.",genel,,idea,
+2025-08-31,Sun,Post,Kişisel Gelişim,Öz Disiplin,"Küçük adım büyük fark.","Kaydet","2 dakikalık başlangıç ritüeli.",genel,templates/post_frame.svg,idea,
+

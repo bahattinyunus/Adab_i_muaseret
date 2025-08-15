@@ -1,0 +1,12 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1080" fill="#F3F4F6"/>
+  <rect x="60" y="60" width="960" height="960" rx="24" fill="#FFFFFF" stroke="#1C3D5A" stroke-width="4"/>
+  <text x="80" y="160" font-family="'Inter', sans-serif" font-size="88" font-weight="700" fill="#1C3D5A">[KAPAK BAŞLIK]</text>
+  <text x="80" y="240" font-family="'Inter', sans-serif" font-size="44" fill="#6B7280">[Alt başlık / hook]</text>
+  <g id="footer">
+    <rect x="60" y="940" width="960" height="80" fill="#1C3D5A"/>
+    <text x="80" y="995" font-family="'Inter', sans-serif" font-size="28" fill="#FFFFFF">@adabimuaşeret</text>
+  </g>
+</svg>
+
+

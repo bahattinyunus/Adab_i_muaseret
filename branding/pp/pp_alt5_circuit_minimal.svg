@@ -1,0 +1,18 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1080" height="1080" fill="#F3F4F6"/>
+  <g stroke="#1C3D5A" stroke-width="8" fill="none" opacity="0.6">
+    <path d="M80,360 h240 v60 h80"/>
+    <circle cx="400" cy="420" r="10" fill="#1C3D5A"/>
+    <path d="M1000,720 h-240 v-60 h-80"/>
+    <circle cx="680" cy="660" r="10" fill="#1C3D5A"/>
+    <path d="M160,780 h320 v-80"/>
+    <circle cx="480" cy="700" r="10" fill="#1C3D5A"/>
+    <path d="M920,300 h-320 v80"/>
+    <circle cx="600" cy="380" r="10" fill="#1C3D5A"/>
+  </g>
+  <circle cx="540" cy="540" r="200" fill="#FFFFFF" stroke="#DAA520" stroke-width="16"/>
+  <text x="540" y="560" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Inter','Segoe UI',sans-serif" font-size="240" font-weight="900" fill="#1C3D5A">BYÇ</text>
+</svg>
+
+
