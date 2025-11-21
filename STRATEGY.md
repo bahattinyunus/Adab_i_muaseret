@@ -1,43 +1,35 @@
-## Strateji
+## Strateji ve Vizyon
 
 ### Misyon
-Adab-ı muaşeret ve hayat bilgilerini herkes için erişilebilir, uygulanabilir ve gündelik hayata aktarılabilir kılmak.
+Adab-ı muaşeret ve modern hayat becerilerini dijital çağın araçlarıyla yeniden yorumlayarak, herkesin erişebileceği kapsamlı bir yaşam kültürü platformu oluşturmak.
 
 ### Hedef Kitle
-- 16-40 yaş, şehirli, öğrenmeye açık, pratik rehber arayan bireyler
-- Ailesinden eksik öğrenmiş ya da güncellemek isteyenler
+- **Genel**: Kendini geliştirmek isteyen, modern şehirli bireyler.
+- **Web**: Derinlemesine bilgi arayan, okumayı seven kitle.
+- **Sosyal**: Pratik, hızlı ipuçları arayan mobil kullanıcılar.
+
+### Kanallar ve İçerik Yapısı
+
+#### 1. Web Sitesi (Ana Merkez)
+- **Format**: Blog yazıları, detaylı rehberler, e-kitaplar.
+- **Amaç**: SEO trafiği, kalıcı bilgi arşivi, e-bülten aboneliği toplama.
+
+#### 2. Sosyal Medya (Trafik ve Farkındalık)
+- **Instagram**: Web sitesindeki içeriklerin "hap bilgi" versiyonları.
+- **Format**: Karusel (Özet), Reel (Teaser), Story (Etkileşim).
+
+#### 3. E-Bülten (Topluluk)
+- Haftalık derlemeler, özel ipuçları.
+
+### Büyüme Hedefleri (KPI)
+- **Web**: Aylık tekil ziyaretçi, Hemen çıkma oranı.
+- **Sosyal**: Erişim, Takipçi dönüşümü, Web sitesine tıklama oranı.
+- **Topluluk**: E-bülten abone sayısı.
 
 ### İçerik Sütunları (Pillar'lar)
-1. Günlük Nezaket ve Görgü
-2. Aile ve İlişkiler
-3. İş ve Profesyonel Hayat
-4. Kişisel Gelişim ve Zihin
-5. Para ve Hayat Yönetimi
-6. Sağlık, Temizlik ve Düzen
+1. **Modern Görgü**: Dijital nezaket, ofis adabı, sofra kuralları.
+2. **İlişkiler**: Aile, arkadaşlık, romantik ilişkilerde iletişim.
+3. **Kişisel Yönetim**: Zaman, para, zihin ve mekan yönetimi.
 
-### Formatlar
-- Karusel (öğretici, adım adım)
-- Reel (hızlı ipuçları, örnek sahneler)
-- Bilgi postu (tek kare)
-- Story (anket, soru-cevap, mini test)
-
-### Yayın Takvimi
-- Haftada 5 gönderi: 3 karusel, 1 reel, 1 tek görsel
-- Günlük story: 2-5 story (anket/soru)
-
-### CTA (Çağrı)
-- Kaydet, paylaş, yorumda örnek ver, arkadaşını etiketle, haftalık challenge katılımı
-
-### Büyüme Taktikleri
-- Trend seslerle kısa reel'ler, karusellerde ilk slayt kancası (hook)
-- Değerli yorumlar, niş sayfalarla iş birliği, UGC (kullanıcı katkısı)
-
-### KPI ve Hedefler
-- Kaydetme oranı, paylaşım oranı, takipçi başına erişim, yorum başına kaydetme
-- Aylık içerik başına ort. kaydetme hedefi: 500+ (başlangıç varsayımı)
-
-### Üslup ve Ton
-- Saygılı, sade, yargılayıcı olmayan; örnekler günlük hayattan
-- Kaynağı bulunan bilgide referans, yoksa pratik deneyim vurgusu
 
 

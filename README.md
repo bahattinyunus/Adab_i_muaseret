@@ -1,34 +1,30 @@
-## Adab-ı Muaşeret Instagram Projesi
+## Adab-ı Muaşeret Platformu
 
-Bu depo, adab-ı muaşeret, görgü kuralları ve temel hayat bilgilerini herkes için anlaşılır şekilde sunan Instagram hesabının tüm çalışma dosyalarını içerir.
+Bu proje, adab-ı muaşeret, görgü kuralları ve modern yaşam becerilerini herkes için erişilebilir kılan kapsamlı bir dijital platformdur. Amacımız, sadece sosyal medyada değil, web ve topluluk kanallarıyla da kalıcı bir kültür oluşturmaktır.
+
+### Platform Bileşenleri
+
+#### 1. Web Portalı (`/web`)
+Modern, hızlı ve erişilebilir bir bilgi kaynağı.
+- Blog ve Makaleler
+- Detaylı Rehberler
+- Topluluk Forumu (Planlanan)
+
+#### 2. Sosyal Medya (`/social-media`)
+Günlük ipuçları ve hızlı tüketilebilir içerikler.
+- **Instagram**: Görsel rehberler ve Reels.
+- **Diğer**: (Gelecekte eklenecek kanallar)
+
+#### 3. İçerik Havuzu (`/content`)
+Platformdan bağımsız, ham bilgi ve içerik kaynağı. Tüm kanallar bu ana kaynaktan beslenir.
 
 ### Hızlı Başlangıç
-- Profil ayarları: `PROFILE.md`
-- Strateji ve içerik planı: `STRATEGY.md`
-- Aylık içerik takvimi: `CONTENT_CALENDAR.csv`
-- İçerik metinleri ve fikir havuzu: `content/`
-- Tasarım şablonları (1080x1080, 1080x1920): `templates/`
-- Marka rehberi ve renk paleti: `branding/`
-- Hashtag setleri: `hashtags/sets.csv`
-- Üretim ve paylaşım kontrol listeleri: `workflows/`
-- Topluluk yönetimi cevap şablonları: `community/`
-- Analitik takibi: `analytics/analytics_log.csv`
-- İş birlikleri: `collab/`
-- Otomasyon betikleri: `automation/`
+- **Web Geliştirme**: `cd web` && `npm run dev`
+- **Instagram İçerikleri**: `social-media/instagram/` dizinini inceleyin.
+- **Marka Rehberi**: `branding/`
 
-### İçerik Sütunları
-1. Günlük Nezaket ve Görgü
-2. Aile ve İlişkiler
-3. İş ve Profesyonel Hayat
-4. Kişisel Gelişim ve Zihin
-5. Para ve Hayat Yönetimi
-6. Sağlık, Temizlik ve Düzen
+### Katkıda Bulunma
+Lütfen `STRATEGY.md` dosyasını okuyarak platform vizyonumuza uygun katkılarda bulunun.
 
-### Yayın Sıklığı (Öneri)
-- Haftada 5 gönderi (3 karusel, 1 reel, 1 bilgi postu)
-- Haftada 10-15 story
-
-### Not
-Şablon SVG dosyaları Canva/Figma’ya içe aktarılabilir. Renk ve tipografi `branding/palette.json` ve `branding/typography.md` ile uyumludur.
 
 
