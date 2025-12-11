@@ -1,60 +1,92 @@
-# 🤖 **Nezaket.ai**
+<div align="center">
 
-### *“Yapay Zeka Destekli Kişisel Zarafet Koçu”*
+![Nezaket.ai Banner](.github/assets/banner.png)
 
-Nezaket.ai, modern çağın karmaşık sosyal etkileşimlerinde size rehberlik eden, yapay zeka tabanlı bir web asistanıdır. "Bunu söylesem kaba olur mu?", "Taziye mesajına ne yazılır?", "İlk buluşmada hesap ödeme adabı nedir?" gibi sorularınıza anlık, kültürel kodlara uygun ve nazik cevaplar verir.
+# 🎩 **Nezaket.ai**
 
----
+### *“Dijital Çağda Zarafetin Yapay Zekası”*
 
-## 🌟 **Özellikler**
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
+[![Vercel AI SDK](https://img.shields.io/badge/AI_SDK-Powered-000000?style=for-the-badge&logo=vercel)](https://sdk.vercel.ai/docs)
+[![Adab-ı Muaşeret](https://img.shields.io/badge/Kültür-Adab--ı%20Muaşeret-crimson?style=for-the-badge)](https://tr.wikipedia.org/wiki/Adab-%C4%B1_mua%C5%9Feret)
 
-*   **🗣️ AI Sohbet Asistanı:** Sosyal senaryolarınızı anlatın, en zarif cevabı alın.
-*   **💌 Hazır Taslaklar:** Düğün, cenaze, iş görüşmesi gibi durumlar için anında şablonlar.
-*   **🧠 Kültürel Farkındalık:** Türk toplumunun geleneksel nezaket kurallarına (Adab-ı Muaşeret) hakim algoritma.
-*   **📱 Modern Arayüz:** Apple/Tesla estetiğinde, minimalist ve premium tasarım.
+<br/>
 
----
+**Nezaket.ai**, köklerini kadim medeniyetimizin inceliklerinden alan, yüzünü ise geleceğin teknolojisine dönmüş bir **Dijital Nezaket Koçu**dur. 
+Google Gemini motoruyla güçlendirilmiş, kültürel kodlara hakim ve her zaman kibar.
 
-## 🚀 **Teknolojiler**
+[Canlı Demo (Yakında)]() · [Hata Bildir](https://github.com/bahattinyunus/Adab_i_muaseret/issues) · [Özellik İste](https://github.com/bahattinyunus/Adab_i_muaseret/issues)
 
-Bu proje, en güncel web ve yapay zeka teknolojileriyle inşa edilmiştir:
-
-*   **Framework:** [Next.js 14+](https://nextjs.org/) (App Router)
-*   **Dil:** TypeScript
-*   **Styling:** [Tailwind CSS](https://tailwindcss.com/) + [Shadcn/UI](https://ui.shadcn.com/)
-*   **AI:** [Vercel AI SDK](https://sdk.vercel.ai/docs)
-*   **Database:** (Planlanıyor: Vercel KV / Postgres)
+</div>
 
 ---
 
-## 🛠️ **Kurulum ve Geliştirme**
+## 🏗️ **Proje Yapısı**
 
-Projeyi yerel ortamınızda çalıştırmak için:
+Modern, temiz ve sürdürülebilir bir mimari.
 
-1.  Repoyu klonlayın.
-2.  Web klasörüne gidin:
-    ```bash
-    cd web
-    ```
-3.  Bağımlılıkları yükleyin:
-    ```bash
-    npm install
-    ```
-4.  Geliştirme sunucusunu başlatın:
-    ```bash
-    npm run dev
-    ```
+```bash
+Nezaket.ai/
+├── 📂 web/                # Next.js Uygulaması
+│   ├── 📂 app/            # App Router (Sayfalar & API)
+│   │   ├── 📂 api/chat/   # AI Endpoint (Beyin Takımı)
+│   │   ├── 📄 page.tsx    # Ana Sohbet Arayüzü
+│   │   └── 📄 global.css  # Premium Tasarım Kodları
+│   ├── 📂 lib/            # Yardımcı Kütüphaneler
+│   └── 📄 tailwind.config # Stil Konfigürasyonu
+└── 📄 README.md           # Şu an okuduğunuz kılavuz
+```
 
 ---
 
-## 🔮 **Yol Haritası**
+## 🌟 **Öne Çıkan Özellikler**
 
-- [ ] **MVP:** Chat arayüzü ve temel prompt mühendisliği.
-- [ ] **v1.0:** Kullanıcı profilleri ve geçmiş konuşmalar.
-- [ ] **v2.0:** Görüntü analizi (Kıyafet/kombin yorumlama).
-- [ ] **Mobil App:** React Native versiyonu.
+| Özellik | Açıklama |
+| :--- | :--- |
+| **🧠 Empatik AI** | Sadece cevap vermez; halden anlar, kültürümüze uygun konuşur. |
+| **✨ Premium UI** | Apple/Tesla estetiğinde, yormayan minimalist arayüz. |
+| **⚡ Anlık Çözüm** | "Düğüne eli boş gidilir mi?" sorusuna 2 saniyede yanıt. |
+| **🛡️ Gizlilik** | Konuşmalarınız tamamen anonim. Sadece siz ve asistanınız arasında. |
 
 ---
 
-> *"Zarafet, gözetlenmediğinde bile doğru olanı yapmaktır."*
-> **— Nezaket.ai Ekibi**
+## 🚀 **Nasıl Çalıştırılır?**
+
+Terminali aç ve sihire başla:
+
+```bash
+# 1. Projeyi İndir
+git clone https://github.com/bahattinyunus/Adab_i_muaseret.git
+
+# 2. Klasöre Gir
+cd Adab_i_muaseret/web
+
+# 3. Bağımlılıkları Yükle
+npm install
+
+# 4. API Anahtarını Ayarla
+# (.env.example dosyasının ismini .env.local yap ve anahtarını yapıştır)
+
+# 5. Başlat!
+npm run dev
+```
+
+---
+
+## 📸 **Ekran Görüntüleri**
+
+> *Tasarım görselleri v1.0 sürümüyle eklenecektir.*
+
+---
+
+<div align="center">
+
+*"Zarafet, gözetlenmediğinde bile doğru olanı yapmaktır."*
+
+---
+© 2025 Nezaket.ai Ekibi. MIT Lisansı ile sevgiyle kodlandı.
+
+</div>
