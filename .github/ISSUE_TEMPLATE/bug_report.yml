@@ -1,0 +1,37 @@
+name: 🐛 Hata Bildirimi (Bug Report)
+description: Bir şeyler ters mi gitti? Bize bildirin.
+title: "[BUG]: "
+labels: ["hata"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Hata bildirdiğiniz için teşekkürler! Sorununuzu çözmek için sabırsızlanıyoruz.
+  
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Ne Oldu?
+      description: Karşılaştığınız hatayı detaylıca anlatın.
+      placeholder: "Şuraya tıkladım, şöyle bir hata aldım..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Nasıl Tekrar Ederiz?
+      description: Adım adım tarif edin ki biz de aynı hatayı alalım.
+      placeholder: |
+        1. Ana sayfaya git
+        2. Butona tıkla
+        3. Hatayı gör
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Ortam Bilgileri
+      description: Hangi tarayıcı, hangi cihaz?
+      placeholder: "Chrome 120, Windows 11..."

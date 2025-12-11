@@ -1,0 +1,27 @@
+name: ✨ Özellik İsteği (Feature Request)
+description: Aklınızdaki o harika fikri bizimle paylaşın.
+title: "[FEAT]: "
+labels: ["özellik"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Harika fikirlerinize açığız! Bize ne istediğinizi anlatın.
+  
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Nedir?
+      description: "Şu an neyi yapamıyorsunuz ya da ne eksik? (Örn: Taziye mesajı bulamıyorum)"
+      placeholder: "Şu anki sistemde..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Çözüm Öneriniz
+      description: Sizce nasıl olmalı?
+      placeholder: "Bence şöyle bir buton olsa..."
+    validations:
+      required: true
