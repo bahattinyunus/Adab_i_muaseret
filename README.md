@@ -2,7 +2,7 @@
 
 ![Nezaket.ai Banner](.github/assets/banner.png)
 
-# 🎩 **Nezaket.ai**
+#  **Nezaket.ai**
 
 ### *“Dijital Çağda Zarafetin Yapay Zekası”*
 
